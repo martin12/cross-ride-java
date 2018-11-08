@@ -1,0 +1,12 @@
+/.DS_Store
+bin/*
+/.classpath
+/.project
+.gradle/*
+.idea/*
+build/*
+target/*
+out/*
+**/.DS_Store
+**/.settings
+cross-ride-java.iml
